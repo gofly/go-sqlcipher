@@ -1,8 +1,12 @@
 # Changelog
 
+## 1.0.3 - Sep 1st 2023
+
+Upgrade to v4.5.5 of sqlcipher and v1.14.17 of go-sqlite3.
+
 ## 1.0.2 - Jul 6th 2023
 
-Upgrade to v4.5.4 of sqlcipher
+Upgrade to v4.5.4 of sqlcipher.
 
 ## 1.0.1 - Jun 16th 2023
 
