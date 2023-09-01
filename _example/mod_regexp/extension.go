@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/mattn/go-sqlite3"
 	sqlite3 "github.com/meow-io/go-sqlcipher"
 )
 
