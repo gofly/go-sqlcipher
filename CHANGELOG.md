@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.4 -Jul 12th 2024
+Transfers ownership of package to gofly.
+
 ## 1.0.3 - Sep 1st 2023
 
 Upgrade to v4.5.5 of sqlcipher and v1.14.17 of go-sqlite3.

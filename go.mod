@@ -1,4 +1,4 @@
-module github.com/meow-io/go-sqlcipher
+module github.com/gofly/go-sqlcipher
 
 go 1.12
 

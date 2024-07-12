@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"os"
 
-	_ "github.com/meow-io/go-sqlcipher"
+	_ "github.com/gofly/go-sqlcipher"
 )
 
 func selectFromDB(dbname, password string) error {
